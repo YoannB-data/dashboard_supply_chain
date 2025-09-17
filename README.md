@@ -16,7 +16,7 @@ Le tableau de bord interactif est publié ici :
 
 # B. Données
 
-* **Source :** Kaggle – DataCo Smart Supply Chain
+* **Source :** [Kaggle – DataCo Smart Supply Chain](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data)
 * **Volume :** ~180 000 lignes
 * **Granularité :** niveau transactionnel (commande, produit, expédition)
 * **Champs clés :**
