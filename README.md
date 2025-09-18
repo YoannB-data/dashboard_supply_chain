@@ -11,7 +11,7 @@ Axes d'analyse :
 
 Le tableau de bord interactif est publié ici :
 
-**[Accéder au rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MWVkZmYtNmQ2OC00MThiLWE3ODQtNTQ2MGUyNjI0ZTY3IiwidCI6IjQ4M2QxZjAzLWIwNTgtNDA3Mi05YjRmLTA2NzY5NzA5MTkxMCJ9&pageName=5f046aae45f25f0c8c4a
+📂 **[Accéder au rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MWVkZmYtNmQ2OC00MThiLWE3ODQtNTQ2MGUyNjI0ZTY3IiwidCI6IjQ4M2QxZjAzLWIwNTgtNDA3Mi05YjRmLTA2NzY5NzA5MTkxMCJ9&pageName=5f046aae45f25f0c8c4a
 )**
 
 
