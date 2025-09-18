@@ -1,4 +1,8 @@
 # Analyse Supply Chain & Impact financier – Power BI
+
+📂 **[Accéder au rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MWVkZmYtNmQ2OC00MThiLWE3ODQtNTQ2MGUyNjI0ZTY3IiwidCI6IjQ4M2QxZjAzLWIwNTgtNDA3Mi05YjRmLTA2NzY5NzA5MTkxMCJ9&pageName=5f046aae45f25f0c8c4a
+)** 
+
 # A. Contexte du projet
 
 Ce projet vise à mettre en place un tableau de bord interactif Power BI pour analyser la performance globale de la Supply Chain, identifier les retards, les inefficacités et mesurer l’impact financier, afin d’optimiser les processus de livraison et d’améliorer la satisfaction client.
@@ -8,11 +12,6 @@ Axes d'analyse :
 * Mesurer la performance des livraisons (OTD, délais, retards)
 * Classer les produits avec la méthode ABC pour optimiser les efforts commerciaux et logistiques
 * Suivre la rentabilité par segment client, région et produit
-
-Le tableau de bord interactif est publié ici :
-
-📂 **[Accéder au rapport Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MWVkZmYtNmQ2OC00MThiLWE3ODQtNTQ2MGUyNjI0ZTY3IiwidCI6IjQ4M2QxZjAzLWIwNTgtNDA3Mi05YjRmLTA2NzY5NzA5MTkxMCJ9&pageName=5f046aae45f25f0c8c4a
-)**
 
 
 # B. Données
